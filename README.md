@@ -104,7 +104,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/all_web_series_mihika/) For Support/Assistance And Our [Channel](https://www.telegram.dog/all_web_series_mihika/) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
