@@ -44,7 +44,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CodeXBotz/File-Sharing-Bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mihika7/file-sharing-Private)</br>
   <img src="https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg-Channel-blue?style=flat-square&logo=telegram" width="147">
 </a><br>
 
